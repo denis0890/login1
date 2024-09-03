@@ -1,0 +1,54 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.main{
+    height: 100vh;
+    width: 100;
+    display: flex;
+    background-image: url(/images/IMG-20240812-WA0000.jpg);
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.inside{
+    height: 80vh;
+    width: 30;
+    border: 5xp solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.904);
+
+}
+.inside input{
+    height:9% ;
+    width: 60% ;
+    margin: 9px ;
+    
+
+}
+.inside button{
+    height: 9%;
+    width:60%;
+    margin: 9px ;
+    background-color: red; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
